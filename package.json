@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-master",
+  "version": "1.0.0",
+  "description": "The WhatsApp Master bot is wonderful, beautiful and powerful",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-rpc": "^3.2.0",
+    "fs": "0.0.1-security",
+    "ini": "^2.0.0"
+  }
+}
